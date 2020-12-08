@@ -1,8 +1,3 @@
-# Python CLI  structure
+# Seam Social Labs Project Submission
 
-## Why?
-
-This repo serves as a good reference point for a simple and basic CLI
-structure. This can either be consumed visually or cloned in which case you
-should change `pycli` to whatever your CLI name will be.
-
+## This is my submission for my interview application. 
