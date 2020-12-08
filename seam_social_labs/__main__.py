@@ -1,6 +1,6 @@
 import sys
-from .classmodule import chat_response
-from .funcmodule import my_function
+from .chat_response import chat_response
+
 
 def main():
     arg = sys.argv[1]
