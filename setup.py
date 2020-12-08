@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name = 'pycli',
+    name = 'seam_social_labs',
     version = '0.1.0',
-    packages = ['pycli'],
+    packages = ['seam_social_labs'],
     entry_points = {
         'console_scripts': [
-            'pycli = pycli.__main__:main'
+            'seam_social_labs = seam_social_labs.__main__:main'
         ]
     })
